@@ -23,7 +23,8 @@
 
 		"if_match"
 		{
-			"xpos"									"6"
+			"xpos"									"4"
+			"ypos"									"1"
 		}
 
 		"TimePanelValue"
@@ -67,6 +68,7 @@
 		"if_match"
 		{
 			"xpos"									"rs1-6"
+			"ypos"									"1"
 		}
 
 		"TimePanelValue"

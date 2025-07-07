@@ -488,14 +488,14 @@
 		}
 		"LoadoutItemMouseOverBorder"
 		{
-			"Left"		{ "1" { "color" "TransparentBlack" } "2" { "color" "TransparentBlack" } }
-			"Right"		{ "1" { "color" "TransparentBlack" } "2" { "color" "TransparentBlack" } }
-			"Top"		{ "1" { "color" "TransparentBlack" } "2" { "color" "TransparentBlack" } }
-			"Bottom"	{ "1" { "color" "TransparentBlack" } "2" { "color" "TransparentBlack" } }
+			"Left"		{ "1" { "color" "LighterDarkBrown" } "2" { "color" "LighterDarkBrown" } }
+			"Right"		{ "1" { "color" "LighterDarkBrown" } "2" { "color" "LighterDarkBrown" } }
+			"Top"		{ "1" { "color" "LighterDarkBrown" } "2" { "color" "LighterDarkBrown" } }
+			"Bottom"	{ "1" { "color" "LighterDarkBrown" } "2" { "color" "LighterDarkBrown" } }
 		}
 		"LoadoutItemPopupBorder"
 		{
-			"image" "White" "color" "HudBlack" "bordertype" "scalable_image"
+			"image" "White" "color" "TransparentBlack" "bordertype" "scalable_image"
 		}
 		"BackpackItemGrayedOut"
 		{

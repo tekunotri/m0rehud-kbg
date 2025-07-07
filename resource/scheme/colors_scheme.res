@@ -155,7 +155,7 @@
 
 		"HTMLBackground"									"95 92 101 255"
 
-		"ItemAttribLevel"									"117 107 94 255"
+		"ItemAttribLevel"									"255 255 255 255"
 		"ItemAttribNeutral"									"255 255 255 255"
 		"ItemAttribPositive"								"153 204 255 255"
 		"ItemAttribNegative"								"255 64 64 255"
