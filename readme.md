@@ -16,6 +16,6 @@ PlacerRo - creating game
 
 kbg devs/designers - making hud / hp and playerclass overlay (i took it from the game)
 
-### screenshot (gameplay only for now, rest to come later)
+### [screenshot album](https://imgur.com/KEzB5tT)
 
 ![game](https://i.imgur.com/KEzB5tT.png)
