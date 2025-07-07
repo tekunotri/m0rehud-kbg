@@ -10,11 +10,13 @@ time taken: ~5h (gameplay only, 3 of them were remaking the overlay before findi
 
 works on 4:3, 16:9 and 16:10 (5:4 doesn't exist but works there too if you care)
 
-## credits
+## credits/thanks
 
 PlacerRo - creating game
 
 kbg devs/designers - making hud / hp and playerclass overlay (i took it from the game)
+
+astrym - leading me to backgrounds
 
 ### [screenshot album](https://imgur.com/a/dZuLu0X)
 
