@@ -8,7 +8,7 @@
 		"ypos"										"-22"
 		"zpos"										"-1"
 		"wide"										"252"
-		"tall"										"30"
+		"tall"										"0"
 		"visible"									"0"
 		"enabled"									"1"
 
@@ -26,7 +26,7 @@
 		"ypos"										"-22"
 		"zpos"										"-1"
 		"wide"										"252"
-		"tall"										"30"
+		"tall"										"0"
 		"visible"									"0"
 		"enabled"									"1"
 
