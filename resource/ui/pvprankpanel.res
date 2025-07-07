@@ -195,7 +195,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"NameLabel"
-			"xpos"									"9999"		//0
+			"xpos"									"0"		//0
 			"ypos"									"0"
 			"wide"									"f0"
 			"zpos"									"100"
@@ -218,7 +218,7 @@
 		{
 			"ControlName"							"CAutoFittingLabel"
 			"fieldName"								"Desc1MainMenu"
-			"xpos"									"0"
+			"xpos"									"9999"
 			"ypos"									"0"
 			"wide"									"f0"
 			"zpos"									"100"
