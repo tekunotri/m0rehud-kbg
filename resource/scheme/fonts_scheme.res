@@ -250,6 +250,7 @@
 				"name"										"Fredoka One Regular"
 				"tall"										"11"
 				"antialias"									"1"
+				"dropshadow"								"1"
 			}
 		}
 		"Coolvetica13"
@@ -259,6 +260,7 @@
 				"name"										"Fredoka One Regular"
 				"tall"										"13"
 				"antialias"									"1"
+				"dropshadow"								"1"
 			}
 		}
 		"Coolvetica15"
@@ -268,9 +270,10 @@
 				"name"										"Fredoka One Regular"
 				"tall"										"15"
 				"antialias"									"1"
+				"dropshadow"								"1"
 			}
 		}
-		"Fredoka One RegularMenu"										//Create Server Button
+		"VerdanaMenu"										//Create Server Button
 		{
 			"1"
 			{
@@ -1258,7 +1261,7 @@
 			"1"
 			{
 				"name"										"Fredoka One Regular"
-				"tall"										"24"
+				"tall"										"16"
 				"antialias"									"1"
 				"weight"									"500"
 			}
@@ -2732,8 +2735,8 @@
 		"2"				"resource/tfd.ttf"
 		"3"
 		{
-			"font"		"resource/Fredoka One Regular.ttf"
-			"name"		"Fredoka One Regular"
+			"font"		"resource/TF2.ttf"
+			"name"		"TF2"
 
 			"russian"
 			{
@@ -2746,8 +2749,8 @@
 		}
 		"4"
 		{
-			"font"		"resource/Fredoka One RegularSecondary.ttf"
-			"name"		"Fredoka One Regular"
+			"font"		"resource/TF2Secondary.ttf"
+			"name"		"TF2 Secondary"
 
 			"russian"
 			{
@@ -2760,8 +2763,8 @@
 		}
 		"5"
 		{
-			"font"		"resource/Fredoka One RegularProfessor.ttf"
-			"name"		"Fredoka One Regular"
+			"font"		"resource/TF2Professor.ttf"
+			"name"		"TF2 Professor"
 
 			"russian"
 			{
@@ -2774,8 +2777,8 @@
 		}
 		"6"
 		{
-			"font"		"resource/Fredoka One RegularBuild.ttf"
-			"name"		"Fredoka One Regular Build"
+			"font"		"resource/TF2Build.ttf"
+			"name"		"TF2 Build"
 
 			"russian"
 			{
@@ -2860,7 +2863,7 @@
 		"9"
 		{
 			"font"		"resource/scheme/fonts/m0rehud icons.ttf"
-			"name"		"m0rehud Icons V5"
+			"name"		"m0rehud Icons V12"
 		}
 		"10"
 		{

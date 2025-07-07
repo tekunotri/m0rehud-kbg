@@ -1,4 +1,8 @@
+
 # m0rehud-kbg
+
+![banner](https://i.imgur.com/KXZQMHc.png)
+
 
 kivotos battlegrounds styled hud for tea fort2
 
@@ -8,7 +12,7 @@ works on 4:3, 16:9 and 16:10 (5:4 doesn't exist but works there too if you care)
 
 ## credits
 
-placerro - creating game
+PlacerRo - creating game
 
 kbg devs/designers - making hud / hp and playerclass overlay (i took it from the game)
 
