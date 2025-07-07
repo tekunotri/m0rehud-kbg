@@ -24,8 +24,8 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"HealthAnchor"
-		"xpos"										"106" // 105 4:3
-		"ypos"										"rs1+17"
+		"xpos"										"107" // 105 4:3
+		"ypos"										"rs1+16"
 		"zpos"										"0"
 		"wide"										"2"
 		"tall"										"80"
@@ -204,19 +204,19 @@
 	}
 	"healthbar"
 	{	
-		"ControlName"	"ContinuousProgressBar"	
-		"fieldName"	"healthbar"
-		"xpos"	"90" // 90 4:3
-		"ypos"	"rs1-13"	
-		"zpos"	"0"
-		"wide"	"159"	
-		"tall"	"20"
-		"visible"	"1"	 
-		"enabled"	"1"
-		"variable"	"Health"
-		"FGcolor_override"		"KBGHealth" 
-		"BGcolor_override"		"0 0 0 100"	
-		"alpha"	"255"
+		"ControlName"								"ContinuousProgressBar"	
+		"fieldName"									"healthbar"
+		"xpos"										"90" // 90 4:3
+		"ypos"										"rs1-13"	
+		"zpos"										"0"
+		"wide"										"156"	
+		"tall"										"20"
+		"visible"									"1"	 
+		"enabled"									"1"
+		"variable"									"Health"
+		"FGcolor_override"							"KBGHealth" 
+		"BGcolor_override"							"0 0 0 100"	
+		"alpha"										"255"
 	}
 	
 	//==================================================================================================================================================

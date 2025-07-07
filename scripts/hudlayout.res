@@ -287,8 +287,8 @@
 	{
 		"ControlName"								"CCurrencyStatusPanel"
 		"fieldName"									"CurrencyStatusPanel"
-		"xpos"										"c-180"
-		"ypos"										"rs1"
+		"xpos"										"0"
+		"ypos"										"c133"
 		"wide"										"60"
 		"tall"										"18"
 		"visible"									"0"
@@ -438,7 +438,7 @@
 		"CornerRadius"								"0"
 		"RightJustify"								"1"
 
-		"TextFont"									"m0refont12Outline"
+		"TextFont"									"m0refont12"
 
 		"TeamBlue"									"fullblue"
 		"TeamRed"									"Health Hurt"
