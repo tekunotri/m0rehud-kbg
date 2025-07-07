@@ -209,7 +209,7 @@
 		"xpos"										"90" // 90 4:3
 		"ypos"										"rs1-13"	
 		"zpos"										"0"
-		"wide"										"155"	
+		"wide"										"156"	
 		"tall"										"20"
 		"visible"									"1"	 
 		"enabled"									"1"
