@@ -24,7 +24,7 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"HealthAnchor"
-		"xpos"										"107" // 105 4:3
+		"xpos"										"107"
 		"ypos"										"rs1+16"
 		"zpos"										"0"
 		"wide"										"2"
@@ -192,7 +192,7 @@
 	{
 		"ControlName"								"ImagePanel"
 		"fieldName"									"kbg-hpoverlay"
-		"xpos"										"6" // 6 4:3
+		"xpos"										"6"
 		"ypos"										"rs1-9"
 		"zpos"										"2"
 		"wide"										"244"
@@ -203,21 +203,21 @@
 		"image"										"replay/thumbnails/kbg-hpoverlay"
 	}
 	"healthbar"
-	{	
-		"ControlName"								"ContinuousProgressBar"	
+	{
+		"ControlName"								"ContinuousProgressBar"
 		"fieldName"									"healthbar"
-		"xpos"										"90" // 90 4:3
-		"ypos"										"rs1-13"	
+		"xpos"										"90"
+		"ypos"										"rs1-13"
 		"zpos"										"0"
-		"wide"										"156"	
+		"wide"										"156"
 		"tall"										"20"
-		"visible"									"1"	 
+		"visible"									"1"
 		"enabled"									"1"
 		"variable"									"Health"
-		"FGcolor_override"							"KBGHealth" 
-		"BGcolor_override"							"0 0 0 100"	
+		"FGcolor_override"							"KBGHealth"
+		"BGcolor_override"							"0 0 0 100"
 	}
-	
+
 	//==================================================================================================================================================
 	// STATUS ICONS ANCHOR
 	// Moves all the status icons at the same time
