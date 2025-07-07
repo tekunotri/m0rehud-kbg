@@ -283,7 +283,7 @@
 		{
 			"1"
 			{
-				"name"										"m0rehud Icons V5"
+				"name"										"m0rehud Icons V12"
 				"tall"										"16"
 				"antialias"									"1"
 			}
@@ -292,7 +292,7 @@
 		{
 			"1"
 			{
-				"name"										"m0rehud Icons V5"
+				"name"										"m0rehud Icons V12"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -301,7 +301,7 @@
 		{
 			"1"
 			{
-				"name"										"m0rehud Icons V5"
+				"name"										"m0rehud Icons V12"
 				"tall"										"20"
 				"antialias"									"1"
 			}

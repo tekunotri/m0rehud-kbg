@@ -25,7 +25,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmoInClip"
-		"xpos"										"0"
+		"xpos"										"-4"
 		"ypos"										"1"
 		"zpos"										"5"
 		"wide"										"150"
