@@ -2,13 +2,15 @@
 
 kivotos battlegrounds styled hud for tea fort2
 
+time taken: ~5h (gameplay only, 3 of them were remaking the overlay before finding real version)
+
 works on 4:3, 16:9 and 16:10 (5:4 doesn't exist but works there too if you care)
 
 ## credits
 
 placerro - creating game
 
-kbg devs/designers - making hud
+kbg devs/designers - making hud / hp and playerclass overlay (i took it from the game)
 
 ### screenshot (gameplay only for now, rest to come later)
 
