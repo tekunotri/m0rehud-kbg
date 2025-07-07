@@ -1,7 +1,7 @@
 
 # m0rehud-kbg
 
-![banner](https://i.imgur.com/KXZQMHc.png)
+![banner](https://i.imgur.com/tKEUHYR.png)
 
 
 kivotos battlegrounds styled hud for tea fort2
@@ -16,6 +16,6 @@ PlacerRo - creating game
 
 kbg devs/designers - making hud / hp and playerclass overlay (i took it from the game)
 
-### [screenshot album](https://imgur.com/KEzB5tT)
+### [screenshot album](https://imgur.com/a/dZuLu0X)
 
-![game](https://i.imgur.com/KEzB5tT.png)
+![game](https://i.imgur.com/2nG4ph9.jpeg)
