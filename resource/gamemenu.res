@@ -6,7 +6,7 @@
 	"Version"
 	{
 		"label"										"m0rehud-kbg"
-		"command"									"engine con_enable 1; toggleconsole; echo by techno; echo assets mostly recreated from screenshots; echo"
+		"command"									"engine con_enable 1; toggleconsole; echo by techno; echo assets mostly recreated from screenshots; echo github.com/tekunotri/m0rehud-kbg"
 		"OnlyAtMenu"								"1"
 	}
 	"Servers"
