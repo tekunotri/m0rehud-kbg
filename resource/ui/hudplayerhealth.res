@@ -193,14 +193,14 @@
 		"ControlName"								"ImagePanel"
 		"fieldName"									"kbg-hpoverlay"
 		"xpos"										"6" // 6 4:3
-		"ypos"										"rs1-5"
+		"ypos"										"rs1-9"
 		"zpos"										"2"
 		"wide"										"244"
 		"tall"										"80"
 		"visible"									"1"
 		"enabled"									"1"
 		"scaleImage"								"1"
-		"image"										"replay/thumbnails/kbg-hpoverlay2"
+		"image"										"replay/thumbnails/kbg-hpoverlay"
 	}
 	"healthbar"
 	{	
@@ -209,7 +209,7 @@
 		"xpos"	"90" // 90 4:3
 		"ypos"	"rs1-13"	
 		"zpos"	"0"
-		"wide"	"153"	
+		"wide"	"159"	
 		"tall"	"20"
 		"visible"	"1"	 
 		"enabled"	"1"

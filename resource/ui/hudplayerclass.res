@@ -41,6 +41,7 @@
 		"image"										"../hud/class_spy_outline"
 		"scaleImage"								"1"
 	}
+	//kbghud specifics
 	"splitbar"
 	{
 		"ControlName"								"ImagePanel"
@@ -54,6 +55,20 @@
 		"enabled"									"1"
 		"image"										"replay/thumbnails/blank"
 		"fillcolor"									"255 255 255 100"
+	}
+	"weapondeco"
+	{
+		"ControlName"								"ImagePanel"
+		"fieldName"									"weapondeco"
+		"xpos"										"rs1-15"
+		"ypos"										"rs1-35"
+		"zpos"										"1"
+		"wide"										"64"
+		"tall"										"16"
+		"visible"									"1"
+		"enabled"									"1"
+		"scaleImage"								"1"
+		"image"										"replay/thumbnails/weapondeco"
 	}
 
 	"classmodelpanel"

@@ -9,7 +9,7 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"AmmoAnchor"
-		"xpos"										"rs1-50"
+		"xpos"										"rs1-53"
 		"ypos"										"rs1+20"
 		"zpos"										"0"
 		"wide"										"5"
