@@ -8,8 +8,8 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"UberAnchor"
-		"xpos"										"c175"
-		"ypos"										"c95"
+		"xpos"										"rs1-53"
+		"ypos"										"rs1+20"
 		"zpos"										"0"
 		"wide"										"2"
 		"tall"										"80"
@@ -57,7 +57,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"								"center"
-		"font"										"m0refont58"
+		"font"										"m0refont24"
 		"fgcolor"									"Ubercharge"
 
 		"pin_to_sibling"							"UberAnchor"
@@ -78,7 +78,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"								"center"
-		"font"										"m0refont58"
+		"font"										"m0refont24"
 		"fgcolor"									"Black"
 
 		"pin_to_sibling"							"ChargeLabelBig"
@@ -97,7 +97,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"								"center"
-		"font"										"m0refont58"
+		"font"										"m0refont24"
 		"fgcolor"									"Extra Shadow"
 		"alpha"										"0"
 
