@@ -8,10 +8,10 @@
 		
 		"Health Numbers"									"255 255 255 255"
 		"KBGHealth"											"0 255 31 255"
-		"Health Buff"										"0 185 0 255"
-		"Health Buff Target"								"0 215 0 255"
-		"Health Buff Spec"									"0 215 0 255"
-		"Health Buff Killer"								"0 215 0 255"
+		"Health Buff"										"0 186 255 255"
+		"Health Buff Target"								"0 186 255 255"
+		"Health Buff Spec"									"0 186 255 255"
+		"Health Buff Killer"								"0 186 255 255"
 
 		"Health Hurt"										"255 0 0 255"
 		"Health Hurt Target"								"255 255 255 255"
@@ -77,9 +77,9 @@
 		"PartyMember6"										"255 133 255 255"
 
 		"White"												"255 255 255 255"
-		"Red"												"189 59 61 255"
+		"Red"												"255 0 0 255"
 		"RedSolid"											"192 28 0 255"
-		"Blue"												"90 122 143 255"
+		"Blue"												"0 0 255 255"
 		"Yellow"											"255 255 255 255"
 		"TransparentYellow"									"251 235 202 140"
 		"BrightYellow"										"251 235 0 255"
@@ -90,16 +90,16 @@
 		"TransparentLightBlack"								"0 0 0 90"
 		"FooterBGBlack"										"52 48 55 255"
 
-		"HUDBlueTeam"										"90 122 143 255"
-		"HUDRedTeam"										"189 59 61 255"
+		"HUDBlueTeam"										"0 0 255 255"
+		"HUDRedTeam"										"255 0 0 255"
 		"HUDSpectator"										"124 124 124 127"
-		"HUDBlueTeamSolid"									"90 122 143 255"
-		"HUDRedTeamSolid"									"189 59 61 255"
+		"HUDBlueTeamSolid"									"0 0 255 255"
+		"HUDRedTeamSolid"									"255 0 0 255"
 		"HUDDeathWarning"									"255 0 0 255"
 		"HudWhite"											"255 255 255 255"
 		"HudOffWhite"										"200 187 161 255"
 		"HudBlack"											"65 65 65 255"
-		"ProgressBarBlue"									"90 122 143 255"
+		"ProgressBarBlue"									"0 0 255 255"
 
 		"CreditsGreen"										"94 150 49 255"
 

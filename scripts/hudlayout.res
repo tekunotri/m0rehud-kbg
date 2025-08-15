@@ -440,8 +440,8 @@
 
 		"TextFont"									"m0refont12"
 
-		"TeamBlue"									"fullblue"
-		"TeamRed"									"Health Hurt"
+		"TeamBlue"									"Blue"
+		"TeamRed"									"Red"
 		"IconColor"									"White"
 		"LocalPlayerColor"							"White"
 

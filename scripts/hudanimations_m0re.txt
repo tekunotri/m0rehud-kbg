@@ -9,6 +9,8 @@ event HudHealthBonusPulse
 
 	Animate HealthValue_Shadow_Extra				Alpha		"255"								Linear	0.0		0.0
 
+	Animate HealthValue								FgColor		"Health Buff"						Linear	0.0		0.0
+
 	Animate HealthValue_Target						FgColor		"Health Buff Target"				Linear	0.0		0.0
 
 	Animate HealthValue_Spectator					FgColor		"Health Buff Spec"					Linear	0.0		0.0
@@ -28,6 +30,8 @@ event HudHealthBonusPulseStop
 	Animate HealthValue_Shadow						FgColor		"Black"								Linear	0.0		0.0
 	Animate HealthValue_Shadow_Extra				Alpha		"0"									Linear	0.0		0.0
 
+	Animate HealthValue								FgColor		"Health Numbers"						Linear	0.0		0.0
+
 	Animate HealthValue_Target						FgColor		"Health Numbers"					Linear	0.0		0.0
 
 	Animate HealthValue_Spectator					FgColor		"Health Numbers"					Linear	0.0		0.0
@@ -42,7 +46,7 @@ event HudHealthDyingPulse
 {
 	Animate	PlayerStatusHealthBonusImage			Alpha		"255"								Linear	0.0		0.075
 	Animate	PlayerStatusHealthBonusImage			Alpha		"0"									Linear	0.125	0.075
-
+	Animate healthbarlow							alpha		"255"						Linear	0.0		0.0
 	Animate	PlayerStatusHealthDyingBG				Alpha		"255"								Linear	0.0		0.0
 
 	Animate HealthValue_Shadow_Extra				Alpha		"255"								Linear	0.0		0.0
@@ -62,6 +66,7 @@ event HudHealthDyingPulseStop
 	StopEvent HudHealthDyingPulseLoop				0.0
 
 	Animate	PlayerStatusHealthDyingBG				Alpha		"0"									Linear	0.0		0.0
+	Animate healthbarlow							alpha		"0"						Linear	0.0		0.0
 
 	Animate HealthValue_Shadow						FgColor		"Black"								Linear	0.0		0.0
 	Animate HealthValue_Shadow_Extra				Alpha		"0"									Linear	0.0		0.0

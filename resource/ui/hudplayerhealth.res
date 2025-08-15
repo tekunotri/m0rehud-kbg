@@ -217,7 +217,26 @@
 		"FGcolor_override"							"KBGHealth"
 		"BGcolor_override"							"0 0 0 100"
 	}
-
+	//mfw kbg devs add 3 healthbar system (green=full, yellow=50-25% and red=below 25%)
+	//but this stupid ass game only supports being low or full. compromise.
+	//atleast it was easy to implement
+	"healthbarlow"
+	{
+		"ControlName"								"ContinuousProgressBar"
+		"fieldName"									"healthbarlow"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"0"
+		"wide"										"156"
+		"tall"										"20"
+		"visible"									"1"
+		"enabled"									"1"
+		"variable"									"Health"
+		"FGcolor_override"							"health hurt"
+		"BGcolor_override"							"0 0 0 0"
+		"alpha"										"0"
+		"pin_to_sibling"							"healthbar"
+	}
 	//==================================================================================================================================================
 	// STATUS ICONS ANCHOR
 	// Moves all the status icons at the same time

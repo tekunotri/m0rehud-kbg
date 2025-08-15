@@ -5,8 +5,8 @@
 	//====================================================================================================================================================
 	"Version"
 	{
-		"label"										"m0rehud-kbg"
-		"command"									"engine con_enable 1; toggleconsole; clear; echo another m0re edit by techno; echo some assets taken from kbg, credits to artists.; echo github.com/tekunotri/m0rehud-kbg"
+		"label"										"m0rehud-kbg 1.1"
+		"command"									"engine con_enable 1; toggleconsole; clear; echo m0rehud: kivotos battlegrounds edition v1.1; echo another m0re edit by techno; echo some assets taken from kbg, credits to artists.; echo dl latest ver @ github.com/tekunotri/m0rehud-kbg"
 		"OnlyAtMenu"								"1"
 	}
 	"Servers"
